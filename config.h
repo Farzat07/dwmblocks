@@ -13,7 +13,7 @@ static const Block blocks[] = {
 	/* {"",	"sb-cpu",		10,	18}, */
 	/* {"",	"sb-moonphase",	18000,	17}, */
 	/* {"",	"sb-forecast",	18000,	5}, */
-	/* {"",	"sb-mailbox",	180,	12}, */
+	{"",	"sb-mailbox",	600,	12},
 	/* {"",	"sb-nettraf",	1,	16}, */
 	{"",	"sb-volume",	60,	10},
 	{"",	"sb-battery",	5,	3},
