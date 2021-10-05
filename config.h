@@ -16,6 +16,7 @@ static const Block blocks[] = {
 	{"",	"sb-mailbox",	600,	12},
 	/* {"",	"sb-nettraf",	1,	16}, */
 	{"",	"sb-volume",	60,	10},
+	{"",	"sb-microphone",	60,	11},
 	{"",	"sb-battery",	5,	3},
 	{"",	"sb-brightness",	5,	2},
 	{"",	"sb-clock",	10,	1},
